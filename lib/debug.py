@@ -7,6 +7,7 @@ from sqlalchemy.orm import sessionmaker
 
 from models import Game
 
+
 fake = Faker()
 
 if __name__ == '__main__':
